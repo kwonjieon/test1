@@ -3,5 +3,6 @@ public class test_1 {
         System.out.println("ㄱㄱㄱㄱ");
         System.out.println("ㄴㄴㄴㄴ");
         System.out.println("ㄷㄷㄷㄷ");
+        System.out.println("ㄹㄹㄹㄹ");
     }
 }
